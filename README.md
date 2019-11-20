@@ -1,2 +1,5 @@
 # xpm-develop-test-xpack
-Test project used during xpm development
+
+An xPack used to test `xpm install` in xpm tests.
+
+Definitelly of no general use.

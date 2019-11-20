@@ -1,0 +1,30 @@
+{
+  "name": "@xpack/xpm-develop-test",
+  "version": "1.0.0",
+  "description": "An xPack with a test project used during xpm development",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpack/xpm-develop-test-xpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xpack/xpm-develop-test-xpack/issues"
+  },
+  "homepage": "https://github.com/xpack/xpm-develop-test-xpack",
+  "keywords": [
+    "xpack"
+  ],
+  "author": {
+    "name": "Liviu Ionescu",
+    "email": "ilg@livius.net",
+    "url": "https://github.com/ilg-ul"
+  },
+  "license": "MIT",
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "xpack": {}
+}
